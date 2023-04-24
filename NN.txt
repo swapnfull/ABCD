@@ -1,0 +1,22 @@
+sp_Custom_Name_Necklace 'ABCD','CARTJA'
+
+Query for Name Necklace
+
+'Abcd' is the custom name
+then input jeweler id
+
+
+
+
+BETA.ASHIDIAMONDS.COM
+ServerName: 68.168.106.155
+Login: ashidiamonds_LT
+pwd: ashidiamonds_LT
+
+
+
+
+https://beta.ashidiamonds.com/Product/NameNecklaces1.aspx
+
+
+
