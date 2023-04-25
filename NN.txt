@@ -13,7 +13,7 @@ ServerName: 68.168.106.155
 Login: ashidiamonds_LT
 pwd: ashidiamonds_LT
 
-
+//this is for testing 
 
 
 https://beta.ashidiamonds.com/Product/NameNecklaces1.aspx
